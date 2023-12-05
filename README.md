@@ -1,1 +1,11 @@
-# Microsoft_Movie_Studio_Analysis
+# Microsoft Movie Studio Analysis
+
+## Overview
+
+## Business Understanding
+
+## Data Understanding
+
+## Visualizations
+
+## Conclusion
