@@ -51,19 +51,19 @@ The data is utilized to derive insights into factors influencing box office succ
 ## Visualizations
 
 #### Top Studios by Total Gross Revenue
-![Top Studios](link_to_image)
+![Top Studios](images/studios\ by\ gross\ total\ revenue.png)
 
 #### Top-Rated Genres by Average Ratings
-![Top-Rated Genres](link_to_image)
+![Top-Rated Genres](images/top\ rated\ genres.png)
 
 #### Most Voted Genres by Number of Votes
-![Most Voted Genres](link_to_image)
+![Most Voted Genres](images/most\ voted\ genres\ by\ no.\ of\ votes\ .png)
 
 #### Average Runtime of Movies per Year
-![Average Runtime](link_to_image)
+![Average Runtime](images/average\ movie\ runtime\ per\ year.png)
 
 #### Average Ratings vs Total Gross Revenue by Genre (Scatter Plot)
-![Ratings vs Gross Revenue](link_to_image)
+![Ratings vs Gross Revenue](images/average\ ratings\ vs\ total\ gross\ revenue.png)
 
 ## Conclusion
 
