@@ -51,7 +51,7 @@ The data is utilized to derive insights into factors influencing box office succ
 ## Visualizations
 
 #### Top Studios by Total Gross Revenue
-![Top Studios](images/average%20ratings%20vs%20total%20gross%20revenue%20by%20genre.png)
+![Top Studios](images/studios%20by%20gross%20total%20revenue.png)
 
 #### Top-Rated Genres by Average Ratings
 ![Top-Rated Genres](images/top%20rated%20genres%20by%20average%20ratings.png)
