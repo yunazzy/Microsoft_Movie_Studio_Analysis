@@ -33,7 +33,7 @@ Initial exploratory analysis involved summarizing statistics, creating visualiza
 
 Preprocessing steps included handling missing values, converting data types (e.g., converting 'foreign_gross' to numeric and filling missing values with mean), and dealing with null values in 'genres' by replacing them with 'Unknown'.
 
-* Sample Data *
+ Sample Data 
 
 Snippet of Box Office Mojo data:
 
@@ -46,6 +46,8 @@ Snippet of Box Office Mojo data:
 | Shrek Forever After               | P/DW   | 238,700,000    | 513,900,000   | 2010 |
 
 
-The data is utilized to derive insights into factors influencing box office success, such as genre preferences, ratings, and revenue trends. It aids in advising Microsoft on the types of movies they should produce for their new studio, enabling data-driven decision-making in the entertainment industry.## Visualizations
+The data is utilized to derive insights into factors influencing box office success, such as genre preferences, ratings, and revenue trends. It aids in advising Microsoft on the types of movies they should produce for their new studio, enabling data-driven decision-making in the entertainment industry.
+
+## Visualizations
 
 ## Conclusion
